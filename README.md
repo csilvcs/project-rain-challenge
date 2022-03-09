@@ -6,7 +6,7 @@ Instalar Node.js 14+
 Instalacao
 
 ## Clonar o projeto
-
+https://github.com/csilvcs/project-rain-challenge.git
 
 ## Instalar dependências do Node:
 npm install
